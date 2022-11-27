@@ -1,0 +1,11 @@
+p {
+	font-size: 75px;
+	position: absolute;
+	top: 225px;
+	right: 225px;
+	font-family: sans-serif;
+}
+
+body {
+	background: #476930;
+}
